@@ -57,7 +57,7 @@ Once installed, you can use `ffmpeg` commands in your application to process vid
   exec("ffmpeg -i input.mp4 -vcodec libx264 -crf 28 -preset fast output.mp4");
   ```
 
-###*Video Compression with `ffmpeg`*
+### *Video Compression with `ffmpeg`*
 Once you have `ffmpeg` set up, you can follow the compression steps I provided earlier to optimize your video files for web delivery.
 
 ### Important Note:
