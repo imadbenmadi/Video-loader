@@ -48,7 +48,7 @@ If `ffmpeg` is not installed, and you have root access (which is uncommon for sh
 #### Without SSH Access
 If you don’t have SSH access, you might have to contact your hosting provider’s support team and ask if they can install `ffmpeg` for you.
 
-### 3. **Using `ffmpeg` in Your Application**
+### *Using `ffmpeg` in Your Application*
 Once installed, you can use `ffmpeg` commands in your application to process videos. Since cPanel often has limitations on command execution, consider the following:
 
 - **Cron Jobs**: You can create cron jobs in cPanel to run `ffmpeg` commands at scheduled intervals if you need to process videos regularly.
