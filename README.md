@@ -1,4 +1,4 @@
-Video Compression and Optimization:
+1. Video Compression and Optimization:
 •	Use a tool like ffmpeg to compress and optimize your videos for web delivery. Ensure the bitrate, resolution, and format are suitable for fast streaming. For example:
 bash
 Copy code
